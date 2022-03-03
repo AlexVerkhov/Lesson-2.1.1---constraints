@@ -293,6 +293,7 @@
 				DEVELOPMENT_TEAM = PW3MRU3W8V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Lesson 2.1.1 - constraints/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Lesson 2.1.1 - constraints";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -322,6 +323,7 @@
 				DEVELOPMENT_TEAM = PW3MRU3W8V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Lesson 2.1.1 - constraints/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Lesson 2.1.1 - constraints";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
